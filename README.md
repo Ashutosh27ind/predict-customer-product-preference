@@ -10,7 +10,7 @@ Your Marketing department would like to contextualize companies website to show 
 This is present under data/ directory and they are multiple JSON files.  
 
 **Data Dictionary**  
-![Data-Dictionary](data_dictionary.png)
+![Data-Dictionary](data_dictionary.PNG)
 
 "printer-related product" can be identified if a customer has ordered a product if the Product Name field contains the word “printer" and the product sub-category is 'Machines.'  
 
